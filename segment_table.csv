@@ -1,0 +1,5 @@
+segment,customers,churned,avg_risk_score,avg_tenure_months,avg_tickets,avg_monthly_charge,monthly_revenue,main_contract,main_plan
+"A. High risk, higher value",2,2,92.5,11.0,3.5,79.99,159.98,Month-to-Month,Pro
+"B. High risk, standard value",5,5,100.0,5.4,4.6,49.99,249.95,Month-to-Month,Basic
+C. Watch list,4,0,40.0,19.75,1.5,64.99,259.96,One Year,Basic
+D. Loyal core,4,0,5.0,38.5,0.5,149.99,599.96,Two Year,Enterprise
